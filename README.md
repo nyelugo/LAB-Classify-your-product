@@ -33,7 +33,8 @@ This repository contains everything you need for this lab.
 | [`vittal-briefs-for-ugo.md`](./vittal-briefs-for-ugo.md) | My partner's four client briefs, received unlabelled |
 | [`eu-ai-act-approval-pack-ugo-ahukannah.md`](./eu-ai-act-approval-pack-ugo-ahukannah.md) | The approval pack: executive summary, classification, architecture and role map, obligations and decision per case, plus the redesign for the prohibited case |
 | [`debrief-ugo-ahukannah.md`](./debrief-ugo-ahukannah.md) | Phase 4 debrief: intended vs inferred categories, scenario critique, client response and closing note |
-| [`stretch-implementation-roadmap-ugo-ahukannah.md`](./stretch-implementation-roadmap-ugo-ahukannah.md) | Stretch task: implementation roadmap for the strongest high-risk case |
+| [`reinforce-ugo-ahukannah.md`](./reinforce-ugo-ahukannah.md) | Reinforce task: per-case counter-arguments and why they fail, the points needing legal verification, and the next operational artefact for each case |
+| [`stretch-implementation-roadmap-ugo-ahukannah.md`](./stretch-implementation-roadmap-ugo-ahukannah.md) | Stretch task: implementation roadmap for the strongest high-risk case — launch posture, must-have vs phased obligations, vendor evidence, and post-launch monitoring ownership |
 | [`from_vittal/review-for-ugo.md`](./from_vittal/review-for-ugo.md) | My partner's consulting review of my four cases |
 | [`from_vittal/answer-key.md`](./from_vittal/answer-key.md) | My partner's answer key, revealed after both reviews were exchanged |
 | [`from_vittal/eu-ai-act-approval-pack-vittal.md`](./from_vittal/eu-ai-act-approval-pack-vittal.md) | My partner's own approval pack, for the debrief comparison |
