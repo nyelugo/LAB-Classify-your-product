@@ -92,6 +92,53 @@ the redesigned system would land in rather than just saying "make it lawful."
   Independently authored, but it narrowed the discovery range — a shared "no duplicate industries"
   constraint up front would have produced a harder exercise.
 
-**Client response (Vittal, written exchange) — accept / challenge / redesign:** _pending._
+**Client response (Vittal, written exchange, 19 August) — accept / challenge / redesign:**
 
-**Closing note — what changed after the client discussion:** _pending._
+**Accepted in full. No challenge raised, no redesign requested.**
+
+- **Cases 2, 3 and 4 — accepted.** Classification, architecture and controls matched his own
+  reasoning. He singled out the **GDPR Article 22 cross-reference on Case 2's auto-rejection flow**
+  as a genuinely useful addition he had not included, and said he would fold it into the real
+  approval pack.
+- **Case 1 — classification and redesign both accepted.** He had independently drafted
+  substantially the same lawful alternative: self-reported opt-in signals plus objective
+  operational data, never tied to an individual's record. His observation on that convergence is
+  worth keeping: *"Independent convergence on the same redesign from two reviewers who didn't see
+  each other's answer key is a good sign the fix is the obvious one, not an idiosyncratic reading."*
+
+**Closing note — what changed after the client discussion**
+
+**No classification changed.** All four calls were correct blind, in both directions, and the client
+raised no challenge — so nothing in the pack was withdrawn or revised on the merits. What the
+exchange produced was precision, in four places.
+
+**One, article-level accuracy.** His answer key cited the workplace emotion-recognition ban as
+**Art 5(1)(f)** where my pack said only "Article 5", and flagged its narrow medical and safety
+carve-out. Both adopted. Naming the sub-paragraph is the difference between a client's counsel
+being able to check your work in one step and having to hunt for it.
+
+**Two, and this is the substantive gain: a lawful redesign is not a permanent exemption.** He put it
+better than I had — *"a lawful redesign isn't a permanent exemption, it's an exemption for the
+design as specified."* My pack had already forked the Case 1 redesign (aggregate and advisory →
+minimal risk; per-employee attrition flags → Annex III(4) high-risk), but I had written it as two
+options for the client to choose between. His framing makes it a **standing condition on the
+approval itself**: the tier follows the design, so the moment the client asks for per-employee
+flags, the approval they were given no longer covers what they are building. That belongs in every
+redesign recommendation, not just this one, and it is the single most transferable thing either of
+us produced in this lab.
+
+**Three, cross-lens instinct is worth making explicit.** Both of us independently reached past the
+AI Act into **GDPR Article 22** on the other's employment case — he on Nordhaven's pre-filtered
+panel, me on his auto-rejection flow — and each of us found it useful precisely because the other
+had not written it in. Two regimes, one system: the AI Act analysis is incomplete without the
+privacy one, which is exactly what the following lab then made us do properly.
+
+**Four, sourcing method.** Our packs diverged on whether to rely on the Digital Omnibus at all. I
+would not change my dates — the amendment is in force and a pack without it misdirects a client's
+roadmap by sixteen months — but I have adopted his discipline of pairing each date with the
+instrument it rests on, so the reader can verify rather than trust.
+
+**What I would do differently next time:** agree a no-duplicate-industries constraint with the
+partner before authoring. Our two sets converged on near-identical demand-forecasting and
+employment cases, which narrowed the discovery range and made two of the eight classifications
+easier than they should have been.
